@@ -8,3 +8,6 @@ print(welcome + ' ' + name)
 
 sliptstrings = "You\nare\nso\nBeautiful\n"
 print(sliptstrings)
+
+tabbedstring = "1\t2\t3\t4\t5"
+print(tabbedstring)
